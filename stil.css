@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+p {color: cadetblue;
+font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+font-size: 16px;
+line-height: 18px;
+width: 600px;
+background-color: antiquewhite;
+	padding: 20px;
+}
+
+h2{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: cadetblue;
+}
+body {background-image: url("../../Downloads/milad-fakurian-Tc_4PdN-Fq0-unsplash.jpg");}
+.drugapozadina {background-color: thistle;}
+a:link{color: black;
+background-color: white;
+padding: 5px;
+line-height: 40px;
+border: 1px solid #000000;
+}
+a:hover{background-color: lightgray;}
+img{height: 380px;}
